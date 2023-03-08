@@ -5,7 +5,7 @@ In this project you'll be using Ruby on Rails with Postgres to create a simple w
 Users for this site are called ```Players``` who should get ```Offers``` depending on their ```OffersTargets```.
 
 ## Prerequisities
-  - Ruby 2.6 installed.
+  - Ruby 3.1.3 installed.
   - Postgres installed.
     * http://postgresapp.com/
     * http://postgresapp.com/documentation/configuration-general.html
